@@ -1,0 +1,81 @@
+
+		Relat�rio PROUNI/2020
+	Quantidade de vagas ofertadas = 166830 bolsas
+
+
+		Bolsas separadas por UF:    
+Bolsas/UF:
+AC - 1379
+AL - 1387
+AM - 3531
+AP - 811
+BA - 10253
+CE - 6965
+DF - 3697
+ES - 3839
+GO - 6095
+MA - 6072
+MG - 18938
+MS - 1611
+MT - 1852
+PA - 5944
+PB - 2763
+PE - 6710
+PI - 2005
+PR - 9919
+RJ - 8488
+RN - 1810
+RO - 2754
+RR - 421
+RS - 11482
+SC - 4975
+SE - 1287
+SP - 40379
+TO - 1463
+
+
+		Bolsas separadas por Regi�o do pa�s:    
+Bolsas/Regi�o:
+CENTRO-OESTE - 13255
+NORDESTE - 39252
+NORTE - 16303
+SUDESTE - 71644
+SUL - 26376
+
+
+		Divis�o de bolsa / sexo:    
+Feminino (F) - Masculino (M):
+F - 101137
+M - 65693
+
+
+		Os 5 cursos com maiores inscri��es do PROUNI/2020:    
+Top 05:
+ADMINISTRA��O - 14888
+CI�NCIAS CONT�BEIS - 8570
+DIREITO - 15082
+ENFERMAGEM - 9234
+PEDAGOGIA - 13660
+
+
+		Comparativo de vagas para PPD - PROUNI/2020:    
+Portador (S) / N�o portador (N):
+N - 165558
+S - 1272
+
+
+		Panorama de bolsas integrais e parciais:    
+Comparativo bolsas integrais / parciais
+INTEGRAL - 130744
+PARCIAL - 36086
+
+
+		Panorama de bolsas por ra�a / etnia:    
+Bolsas por ra�a:
+Amarela - 2900
+Branca - 64484
+Ind�gena - 153
+N�o Informada - 73
+Parda - 78067
+Preta - 21153
+
