@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 arquivo = os.path.join('data\prouni_database2020.csv')
 database = np.loadtxt(arquivo, delimiter = ";", dtype= str, skiprows=1)
 
-
+# Teste
 '''Funções comuns'''
 
 def indexacao(i):
